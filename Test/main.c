@@ -1,8 +1,15 @@
 #include <stdio.h>
-#include <stdlib.h>
 
 int main()
 {
-    printf("Hello world!\n");
+    char str[100];
+    int i;
+
+    printf("Enter a value : ");
+
+    scanf("%d %s", &i, str);
+
+    printf("\nYou entered: %d:::::%s\n", i, str);
+
     return 0;
 }
