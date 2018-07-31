@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1533055896 source:c:\users\student\desktop\github\cmodules\rectanglearea\main.c
+	<stdio.h>
+	<stdlib.h>
+
