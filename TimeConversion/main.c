@@ -10,9 +10,10 @@ int main()
     printf("Enter minutes: ");
     scanf("%d", &minutes);
 
-    years = ((float)(minutes)) / 525600;
-    days = ((float)(minutes)) / 1440;
+    years = ((double)minutes) / 525600;
+    days = ((double)minutes) / 1440;
 
+    // printf("minutes: %d\n", minutes);
     printf("days = %f\n", days);
     printf("years = %f", years);
     return 0;
