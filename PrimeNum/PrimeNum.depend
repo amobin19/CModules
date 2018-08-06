@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1533570012 source:c:\users\student\desktop\github\cmodules\primenum\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<math.h>
+
