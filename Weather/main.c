@@ -25,7 +25,7 @@ int main()
         for(month = 0, sub = 0; month < MONTHS; ++month){
             sub += rain[year][month];
         }
-        printf("%d %.1f\n", 2010 + year, sub);
+        printf("%d %.1f\n", 2013 + year, sub);
         total += sub;
     }
     total = total/MONTHS;
