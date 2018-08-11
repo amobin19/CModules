@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1533949508 source:c:\users\student\desktop\github\cmodules\strtok\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
